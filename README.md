@@ -1,10 +1,10 @@
-#Lecture 1
+# Lecture 1
 
-## Guthub
+## Github
 
 The lecture was about git and github.
 
-###Activities we did.
+### Activities we did.
 
 - git init
 - git status
@@ -22,7 +22,7 @@ The lecture was about git and github.
 
     `example of variable declaration `let x  = 1`
 ```
-Checklist
+## Checklist
 - [ ] Learn markdown
 - [ ] Learn git
 - [ ] Learn github
