@@ -23,9 +23,9 @@ The lecture was about git and github.
     `example of variable declaration `let x  = 1`
 ```
 ## Checklist
-- [ ] Learn markdown
-- [ ] Learn git
-- [ ] Learn github
+- [X Learn markdown
+- [ ] Code twitter cover page
+- [ ] Code landing page
 
 *italics*
 **bold**
